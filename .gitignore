@@ -1,0 +1,16 @@
+# Credenciais
+.env
+.env.*
+
+# Dependências
+node_modules/
+
+# Arquivos do sistema
+.DS_Store
+
+# Banco de dados Neo4j
+neo4j/data/
+neo4j/logs/
+
+# Material do curso
+documentos/
